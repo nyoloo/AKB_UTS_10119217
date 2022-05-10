@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NyoloooSelfApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Haryoo</string>
+    <string name="nav_header_subtitle">tiyo.10119217@mahasiswa.unikom.ac.id</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="nama">Tiyo Haryo Subaktiono</string>
+    <string name="nickname">Nyolo</string>
+    <string name="deskription">Tiyo Haryo Subaktiono orang yang pendiam</string>
+    <string name="Comingsoon">Coming Soon</string>
+    <string name="welcom">Selamat Datang</string>
+    <string name="ucapan">Terima Kasih telah menginstal Aplikasi Ini</string>
+    <string name="swipe">Geser ke kiri untuk melanjutkan</string>
+    <string name="deskripsiapp">Aplikasi Ini adalah aplikasi pengenalan diri dari pembuatan Aplikai ini yang beranama Tiyo Haryo</string>
+    <string name="nexr">Klik Tombol di Bawah untuk melanjutkan</string>
+    <string name="next">Start</string>
+    <string name="hobii">Hobi</string>
+    <string name="txtCredits">www.google.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

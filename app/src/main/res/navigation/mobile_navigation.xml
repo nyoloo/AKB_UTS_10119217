@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.nyoloo.nyoloselfapp.ui.home.Home"
+        android:label="@string/menu_home"
+        tools:layout="@layout/home_fragment" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.nyoloo.nyoloselfapp.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_daily"
+        android:name="com.nyoloo.nyoloselfapp.ui.Daily.DailyFragment"
+        android:label="Aktifitas"
+        tools:layout="@layout/fragment_daily" />
+    <fragment
+        android:id="@+id/nav_music"
+        android:name="com.nyoloo.nyoloselfapp.ui.Music.MusicFragment"
+        android:label="Media"
+        tools:layout="@layout/fragment_music" />
+    <fragment
+        android:id="@+id/nav_provil"
+        android:name="com.nyoloo.nyoloselfapp.ui.Profil.Profil"
+        android:label="Profil"
+        tools:layout="@layout/profil_fragment" />
+
+</navigation>
